@@ -5,6 +5,13 @@
 
 
 
+## Env creation
+
+```powershell
+conda create -n tf-gpu tensorflow-gpu
+conda activate tf-gpu
+conda install jupyter
+```
 
 
 ## Attribution
